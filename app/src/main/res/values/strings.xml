@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crypto IM</string>
+    <string name="sample_crypto_name">sample crypto name</string>
+    <string name="sample_cyrpto_info">Sample cyrpto info</string>
+
+    <string-array name="list_titles">
+        <item>BTC</item>
+        <item>ADA</item>
+        <item>ETH</item>
+        <item>XRP</item>
+        <item>DOGE</item>
+    </string-array>
+
+    <string-array name="list_infos">
+        <item>Info BTC</item>
+        <item>Info ADA</item>
+        <item>Info ETH</item>
+        <item>Info XRP</item>
+        <item>Info DOGE</item>
+    </string-array>
+</resources>
